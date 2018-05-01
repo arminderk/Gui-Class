@@ -4,6 +4,8 @@
 
 # Project 2 - Task Manager
 
+![task](https://user-images.githubusercontent.com/20608379/39488387-f695d67a-4d36-11e8-8993-25275cccaf5c.png)
+
 # Project 3 - Hangman
 
 ![hangman](https://user-images.githubusercontent.com/20608379/39487907-7e16c00c-4d35-11e8-868a-0ebc15092458.png)
