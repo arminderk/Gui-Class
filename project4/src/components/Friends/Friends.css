@@ -1,0 +1,56 @@
+.face {
+  margin-top: 20px;
+  font-size: 8em;
+}
+
+.user-details {
+  text-align: center;
+}
+
+.username {
+  font-size: 30px;
+  margin: 0;
+}
+
+.age {
+  font-size: 20px;
+  margin: 0;
+}
+
+.friend-options {
+  position: fixed;
+  margin-left: 10%;
+  bottom: 0;
+}
+
+.del-btn {
+  margin-right: 20px;
+}
+
+.friends-drawer {
+  background-color: #e1f5fe !important;
+}
+
+.list {
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.del,
+.add {
+  margin-top: 5px;
+  color: white;
+}
+
+.del + span {
+  color: white;
+  position: relative;
+  bottom: 3px;
+  font-size: 27px;
+}
+
+.ser {
+  color: white;
+  margin-top: 2px;
+}
